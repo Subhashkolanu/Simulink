@@ -4,7 +4,9 @@ This repository contains Simulink models developed as part of the Digital Logic 
 
 The experiments demonstrate the implementation of fundamental digital logic circuits using MATLAB Simulink, including combinational and sequential logic designs.
 
+
 ---
+
 
 ## 🧠 Objectives
 
