@@ -24,19 +24,6 @@ The experiments demonstrate the implementation of fundamental digital logic circ
 
 ---
 
-## 📂 Experiments Included
-
-1. Basic Logic Gates (AND, OR, NOT, NAND, NOR, XOR)
-2. Half Adder
-3. Full Adder
-4. Multiplexer
-5. Demultiplexer
-6. Flip-Flops (SR, JK, D, T)
-7. Counters
-8. Encoders and Decoders
-
----
-
 ## 📸 Output
 
 Each experiment folder contains:
